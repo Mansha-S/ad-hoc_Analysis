@@ -4,7 +4,7 @@ unique_products_2020
 unique_products_2021
 percentage_chg */
 
-SELECT a.unique_products_2020,b.unique_products_2021,ROUND(100*(b.unique_products_2021-a.unique_products_2020)/b.unique_products_2021,2) AS percentage_chg
+SELECT a.unique_products_2020,b.unique_products_2021,ROUND(100*(b.unique_products_2021-a.unique_products_2020)/a.unique_products_2020,2) AS percentage_chg
 
 FROM
 (SELECT DISTINCT COUNT(DISTINCT product_code) AS unique_products_2020 FROM fact_gross_price WHERE fiscal_year=2020)  a,
