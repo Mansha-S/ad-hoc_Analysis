@@ -7,7 +7,6 @@ Data analytics director, Tony Sharma plans to conduct a SQL challenge to evaluat
 The company seeks insights for 10 ad hoc requests.
 
 Link: https://codebasics.io/challenge/codebasics-resume-project-
-challenge/7
 
 ## My approach for the challenge
 
