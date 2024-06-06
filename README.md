@@ -10,7 +10,14 @@ Link: https://codebasics.io/challenge/codebasics-resume-project-
 
 ## My approach for the challenge
 
-I started with  understanding about the company , and then tried solving all the requests using MySQL , 
+I started with  understanding about the company ,
+
+![Screenshot 2024-06-06 114320](https://github.com/Mansha-S/ad-hoc_Analysis/assets/97119252/6759ffb5-a50d-47ec-993d-2c259a28ee88)
+
+![Screenshot 2024-06-06 114657](https://github.com/Mansha-S/ad-hoc_Analysis/assets/97119252/3ac13064-1ccc-4c3b-9dbf-aabb0c8c5b7b)
+
+then tried solving all the requests using MySQL queries, 
+
 and provided appropriate visuals  and insights about the requests .
 the presentation I made using Canva 
 
