@@ -14,3 +14,7 @@ I started with  understanding about the company , and then tried solving all the
 and provided appropriate visuals  and insights about the requests .
 the presentation I made using Canva 
 
+
+
+![Screenshot 2024-06-06 113413](https://github.com/Mansha-S/ad-hoc_Analysis/assets/97119252/f191771d-1974-420e-9372-6c0808777739)
+![Screenshot 2024-06-06 113604](https://github.com/Mansha-S/ad-hoc_Analysis/assets/97119252/dca67c8a-4fd0-4e23-98b1-a4939f1b8a10)
